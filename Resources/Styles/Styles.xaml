@@ -16,7 +16,6 @@
     <Style x:Key="TextPassword" TargetType="Editor">
         <Setter Property="FontSize" Value="22"/>
         <Setter Property="TextColor" Value="#322F2F" />
-        <Setter Property="FontAttributes" Value="Bold" />
     </Style>
 
     <Style x:Key="GenerateBtn" TargetType="Button">
